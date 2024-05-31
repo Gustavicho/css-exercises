@@ -1,0 +1,22 @@
+.blk-btn,
+.ylw-btn {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+    transition: .3s;
+}
+
+.blk-btn:hover,
+.ylw-btn:hover {
+    cursor: pointer;
+    filter: brightness(.8);
+}
+
+.blk-btn {
+    background: #000;
+    color: #fff;
+    font-weight: 800;
+}
+
+.ylw-btn {
+    background: #ff0;
+}
